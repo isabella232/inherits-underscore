@@ -1,0 +1,27 @@
+{
+  "name": "inherits-underscore",
+  "version": "0.1.0",
+  "description": "mix in underscore methods",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tetsuo/inherits-underscore.git"
+  },
+  "keywords": [
+    "inherits",
+    "underscore"
+  ],
+  "author": "Onur Gunduz <ogunduz@gmail.com> (http://onurgunduz.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tetsuo/inherits-underscore/issues"
+  },
+  "homepage": "https://github.com/tetsuo/inherits-underscore"
+}
