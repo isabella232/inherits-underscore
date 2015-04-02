@@ -1,10 +1,10 @@
 {
   "name": "inherits-underscore",
   "version": "0.1.0",
-  "description": "mix in underscore methods",
+  "description": "mix in lodash methods",
   "main": "index.js",
   "dependencies": {
-    "underscore": "^1.7.0"
+    "lodash": "^3.6.0"
   },
   "devDependencies": {},
   "scripts": {
@@ -16,6 +16,7 @@
   },
   "keywords": [
     "inherits",
+    "lodash",
     "underscore"
   ],
   "author": "Onur Gunduz <ogunduz@gmail.com> (http://onurgunduz.com/)",

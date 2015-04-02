@@ -1,6 +1,6 @@
-# inherits-underscore
+# ~~inherits-underscore~~ inherits-lodash
 
-mix in underscore methods. 
+mix in lodash methods. 
 
 ```
 npm i inherits-underscore
