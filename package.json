@@ -1,5 +1,5 @@
 {
-  "name": "inherits-underscore",
+  "name": "@koding/inherits-underscore",
   "version": "0.2.0",
   "description": "mix in lodash methods",
   "main": "index.js",
