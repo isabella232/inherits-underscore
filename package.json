@@ -1,10 +1,10 @@
 {
   "name": "@koding/inherits-underscore",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "mix in lodash methods",
   "main": "index.js",
   "dependencies": {
-    "lodash": "^3.6.0"
+    "lodash": "^4.17.4"
   },
   "devDependencies": {},
   "scripts": {
